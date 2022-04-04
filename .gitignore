@@ -1,2 +1,6 @@
 cmake-build
+PhysicsFS.vcxproj
+PhysicsFS.vcxproj.user
 
+bin/
+obj/
